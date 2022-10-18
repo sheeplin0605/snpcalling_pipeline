@@ -1,4 +1,4 @@
-###snpcalling pipeline. You can contact yanglin(yanglin2018@ioz.ac.cn) if you get any wrong.###
+###snpcalling pipeline. You can contact yanglin(sheeplin0605@163.com) if you get any wrong.###
 
 #software path, we here ensure that each software can run successfully in your terminal before runing yourself snpcalling pipeline, otherwise it will run failed.
 fastp=/public/software/182_software/fastp-master/fastp
